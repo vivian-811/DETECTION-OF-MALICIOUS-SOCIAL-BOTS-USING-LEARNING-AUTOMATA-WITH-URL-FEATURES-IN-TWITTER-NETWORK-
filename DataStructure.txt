@@ -1,0 +1,39 @@
+Tweet-Based Bot Detection Using Big Data Analytics
+
+Social media, Twitter, big data analytics, shallow learning, deep learning, tweet-based
+bot detection.
+
+
+Tweet_Based_Bot_Detection
+
+tweet_based_bot_detection
+
+
+
+Tweet_Message
+
+idno
+Tweet
+following
+followers
+actions
+is_retweet
+location
+
+
+Tweet_Type_Prediction
+
+
+idno
+Tweet
+following
+followers
+actions
+is_retweet
+location
+tweet_type
+
+
+
+Tweet_Message,Tweet_Type_Prediction,detection_ratio,detection_accuracy
+
